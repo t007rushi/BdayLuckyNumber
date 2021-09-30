@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+}
+
+.container{
+    text-align: center;
+    color: deeppink;
+    background-color: oldlace;
+    padding: 1rem 0.5rem;
+}
+
+.space{
+    max-width: 10;
+    display: block;
+    height: 10;
+    padding: 2rem 2.5rem;
+    margin: 1.5 2rem;
+}
